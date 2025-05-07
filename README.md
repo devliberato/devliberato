@@ -24,7 +24,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar apl
 Se você quiser colaborar em algum projeto ou bater um papo sobre desenvolvimento, é só me chamar!
 
 - 📫 E-mail: [liberatomatheus52@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/seu-nome]
-- 💼 Site: [seusite.com] (se você tiver um)
+
 
 Vamos construir algo incrível juntos! 🚀
