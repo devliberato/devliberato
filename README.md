@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar apl
 
 - 🎓 Atualmente, estou me aprimorando no desenvolvimento front-end e back-end.
 - 💻 Trabalho principalmente com **JavaScript**, **TypeScript**, **React** e **MySQL**
-- 🚀 Estou sempre explorando novas tecnologias patra melhorar minhas habilidades, é por isso que meu desejo atual é ser um fullstack. 
+- 🚀 Estou sempre explorando novas tecnologias para melhorar minhas habilidades, é por isso que meu desejo atual é ser um fullstack. 
 
 ## Tecnologias com as quais trabalho no momento:
 
