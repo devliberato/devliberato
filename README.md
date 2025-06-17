@@ -1,5 +1,5 @@
 Olá, Me chamo Matheus Liberato! 👋
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar aplicações web dinâmicas e interativas que agora está em busca de aprender sobre back-end.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar aplicações web dinâmicas e interativas.
 
 Sobre Mim
 🎓 Atualmente, estou me aprimorando no desenvolvimento front-end e back-end.
@@ -14,6 +14,7 @@ Vamos conversar!
 Se você quiser colaborar em algum projeto ou bater um papo sobre desenvolvimento, é só me chamar!
 
 📫 E-mail: [liberatomatheus2020@gmail.com]
+linkedin: https://www.linkedin.com/in/matheus-liberato-1ba063366/
 
 Vamos construir algo incrível juntos! 🚀
 
