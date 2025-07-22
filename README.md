@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar apl
 Sobre Mim
 🎓 Atualmente, estou me aprimorando no desenvolvimento front-end e back-end.
 
-💻 Trabalho principalmente com JavaScript, React, Node.js, Express e MongoDB
+💻 Trabalho principalmente com React e Node.js
 
 🚀 Estou sempre explorando novas tecnologias para melhorar minhas habilidades, é por isso que meu desejo atual é ser um fullstack.
 
