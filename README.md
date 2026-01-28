@@ -13,7 +13,7 @@ Tecnologias com as quais trabalho no momento:
 Vamos conversar!
 Se você quiser colaborar em algum projeto ou bater um papo sobre desenvolvimento, é só me chamar!
 
-📫 E-mail: [liberatomatheus2020@gmail.com]
+📫 E-mail: [liberatomatheus52@gmail.com]
 linkedin: https://www.linkedin.com/in/matheus-liberato-1ba063366/
 
 Vamos construir algo incrível juntos! 🚀
